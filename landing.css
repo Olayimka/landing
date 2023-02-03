@@ -1,0 +1,148 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), #45f3ff);
+    font-family: 'PT Sans', sans-serif;
+    line-height: 2rem;
+}
+.container{
+    padding:20px;
+    background-color:;
+    color:black;
+    text-align:center;
+    width:100%;
+}
+
+.section1{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), #bcd8da);
+    padding: 30px;
+}
+.cover{
+    text-align:center;
+    justify-content: space-between;
+}
+
+.a{
+    background:;
+    padding:10px 24px;
+    text-decoration:none;
+    font-size:18px;
+    border-radius:20px;
+   
+
+}
+ .a:hover{
+    background:blue;
+    color:azure;
+
+}
+.i{
+    width:10%;
+    height:10%;
+}
+.btn2{
+    text-align: center;
+background-color: aliceblue;
+color:blue;
+border-radius:15px;
+width:135px;
+height:30px;
+margin:10px 15px;
+border:transparent;
+}
+.btn1{
+    text-align: center;
+    background-color:blue;
+    color:aliceblue;
+    border-radius:15px;
+width:145px;
+height:30px;
+margin:20px 20px;
+border:transparent;
+
+    }
+    .btn2:hover{
+        background-color:;
+    }
+    .btn1:hover{
+        background-color: ;
+    }
+    
+    
+    .fontbox{
+        background-color: ;
+    }
+    h2{
+        font-family:Monteserat;
+        font-size:36px;
+        color:black;
+        text-align:center;
+    }
+    h1{
+        font-family:Arial, Helvetica, sans-serif;
+        font-size:24px;
+        color:black;
+        text-align:center;
+    }
+    span{
+        font-family: Helvetica, sans-serif;
+        font-size:14px;
+        color:black;
+        text-align:center;
+        margin-top:70px;
+        margin-left:50px;
+    }
+    .img{
+        width:200px;
+        display: inline-block;
+        margin-left:50px;
+    }
+    .img2{
+        width:200px;
+        display: inline-block;
+        margin-left:100px;
+
+    }
+    .gain{
+        background-color:purple;
+        text-align:center;
+    }
+    small{
+        color:purple;
+        font-size:24px;
+    }
+    .detail{
+        background-color:;
+        box-shadow:black;
+        display:grid;
+        grid-template-columns: 30px 30px;
+        width:300px;
+        height:400px;
+    }
+    .con{
+        border-radius: 60px;
+        margin:10px 10px;
+    }
+    .contain{
+        margin:10px 10px;
+        border-radius:30px;
+        background-color: azure;
+        height:100px;
+        width:100px;
+    }
+    .h3{
+        color:purple;
+    }
+    .src{
+        margin:10px 10px;
+    }
+    .det{
+        background-color:;
+    }
+    .h5{
+        margin-left:30px;
+        color:purple;
+        font-size:40px;
+    }
+    
+
+    

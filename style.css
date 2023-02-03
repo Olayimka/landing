@@ -1,0 +1,36 @@
+#footer {
+    background-color:#062b2e;
+  
+    padding: 15px 7px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li {
+   list-style: none;
+    color:white;
+    line-height: 2rem;
+   
+}
+h5 {
+    color: aliceblue;
+}
+
+.icon {
+    padding: 30px 20px;
+   
+    width: 20px;
+
+}
+
+ul {
+    padding: 30px;
+    
+}
+@media screen and(max-width:700px) {
+    #footer  {
+        background-color:#45f3ff;
+    }
+    
+}
